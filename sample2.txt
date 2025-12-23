@@ -1,1 +1,2 @@
 this is a second file and in branch one
+second line of sample2
